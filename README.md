@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5g81b90tq5nvkdh7?svg=true)](https://ci.appveyor.com/project/Landyshlana/ajh-dom)
